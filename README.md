@@ -36,7 +36,7 @@ The proposal recommends moderated usability testing followed by a small, time-li
 
 ## Deliverable
 
-See `Application-Deadlines-View-Product-Spec.pdf` for the complete one-page product specification.
+[View the complete one-page product specification](./Application-Deadlines-View-Product-Spec.pdf).
 
 ---
 
